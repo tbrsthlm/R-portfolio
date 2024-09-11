@@ -71,11 +71,28 @@ This project investigates the relationship between several health factors and de
 
 ## Visualizations
 
-![Scatterplot of BMI and hs-CRP](path_to_scatterplot.png)
+![image](https://github.com/user-attachments/assets/0e58f175-5237-44e0-a1d5-4a94603eefd1)
+
 *Figure 1. Scatterplot showing the relationship between BMI and hs-CRP.*
 
-![Boxplots of Sleep Duration by Gender](path_to_boxplot.png)
+![image](https://github.com/user-attachments/assets/4565e0ed-b375-4bf1-8999-26da66a86b27)
+
 *Figure 2. Boxplots of sleep duration by gender.*
+
+![image](https://github.com/user-attachments/assets/57b4f946-76de-49a3-a72f-f137104116f7)
+
+*Figure 3. Visualisation of the significant result of Pairwise comparisons
+**: p =< 0.01, ***: p =< 0.001, ****: p =< 0.0001*
+
+![image](https://github.com/user-attachments/assets/924b439a-a0b2-4ce7-a91f-97b6770dad28)
+
+*Figure 4. The clustered bar chart shows the frequency of BMI of the NHANES 2017−2018
+participants according to their education level.*
+
+![image](https://github.com/user-attachments/assets/a04cbd7c-d22a-4aa9-bdd5-312067c0048b)
+
+*Figure 5. Balloon plot for the visualisation of the contigency table.*
+
 
 ## How to Run the Analysis
 
