@@ -98,4 +98,4 @@ participants according to their education level.*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tbrsthlm/R-portfolio/blob/7670384376958a2211554007649155ef4d01a5f5/scripts/NHANES%20data%20analysis**
+   git clone https://github.com/tbrsthlm/R-portfolio/blob/ebf93be88144ba3a64c5c9dc5615ab74296dbf3b/scripts/NHANES%20data%20analysis
