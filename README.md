@@ -92,10 +92,3 @@ participants according to their education level.*
 ![image](https://github.com/user-attachments/assets/a04cbd7c-d22a-4aa9-bdd5-312067c0048b)
 
 *Figure 5. Balloon plot for the visualisation of the contigency table.*
-
-
-## How to Run the Analysis
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tbrsthlm/R-portfolio/blob/ebf93be88144ba3a64c5c9dc5615ab74296dbf3b/scripts/NHANES%20data%20analysis
